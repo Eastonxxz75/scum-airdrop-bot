@@ -42,13 +42,6 @@ Whether you're begging for an emergency bandage, cashing in your daily login bon
 - Discord Bot Token
 - Steam Web API Key
 
-### 🔧 Setup
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Eastonxxz75/scum-airdrop-bot.git
-   cd scum-airdrop-bot
-
 
 scum-airdrop-bot/
 │
