@@ -32,25 +32,4 @@ Whether you're begging for an emergency bandage, cashing in your daily login bon
 
 ---
 
-## 🚀 Quick Start
 
-### 📦 Requirements
-
-- Python 3.10+
-- PostgreSQL DB
-- SCUM Server with RCON access
-- Discord Bot Token
-- Steam Web API Key
-
-
-scum-airdrop-bot/
-│
-├── bot.py                  # Main Discord bot logic
-├── streamlit_app.py        # Streamlit admin/player dashboard
-├── steam_login/            # Flask Steam OAuth backend
-├── packs/                  # JSON loadouts and airdrop kits
-├── utils/                  # DB, cooldown, RCON utilities
-├── data/                   # Phrase pool, cooldowns
-├── .env.example            # Template config
-├── requirements.txt
-└── README.md
