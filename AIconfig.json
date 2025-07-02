@@ -1,0 +1,46 @@
+{
+  "project": "Gneis Co SCUM Airdrop Bot",
+  "session_behavior": {
+    "requires_open_tab": true,
+    "temporary_file_storage": true,
+    "warn_user_about_resets": true,
+    "recommended_sleep_timer_hours": 5
+  },
+  "bot_features": {
+    "commands": ["!drop", "!help", "!balance", "!daily", "!deposit"],
+    "packs": ["Sniper", "Gardening", "Unhinged Mystery Pack", "Calaca Pack"],
+    "system_messages": {
+      "count": 400,
+      "types": ["funny", "awkward", "gross medical"],
+      "broadcast_interval_hours": 3
+    },
+    "banking": true,
+    "cooldowns": {
+      "help": "1 per hour",
+      "daily": "every 24h",
+      "airdrops": "custom per command"
+    }
+  },
+  "streamlit_admin_panel": {
+    "enabled": true,
+    "login_method": "Steam OpenID",
+    "features": ["pack editor", "event trigger", "user logs"]
+  },
+  "events": {
+    "weed_crate_mission": {
+      "trigger": "admin",
+      "location": "Police Station",
+      "loot": ["weed", "rare gear", "stims"],
+      "enemies": "puppets"
+    }
+  },
+  "github": {
+    "repo": "Eastonxxz75/scum-airdrop-bot",
+    "branch": "main",
+    "collaborator": "gneisco-dev"
+  },
+  "hardware_notes": {
+    "host_machine": "Gaming Desktop",
+    "status": "stable for overnight jobs"
+  }
+}

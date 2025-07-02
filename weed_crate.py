@@ -1,0 +1,21 @@
+PACK = [
+    "Cannabis_Seed",
+    "Cannabis_Seed",
+    "Joint",
+    "Joint",
+    "Joint",
+    "Whiskey_Bottle",
+    "Whiskey_Bottle",
+    "Bong",
+    "Rolling_Papers",
+    "Blunt",
+    "Cal_9mm_Ammobox",
+    "M1911",
+    "Combat_Pants_Green",
+    "Tactical_Jacket_Green",
+    "Military_Boots",
+    "Hiking_Backpack_Camouflage",
+    "Adrenaline",
+    "Bandage_Dressing",
+    "Painkillers"
+]
