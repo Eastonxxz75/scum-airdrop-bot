@@ -1,1 +1,1 @@
-# Cooldown management logic
+# Cooldown tracking logic

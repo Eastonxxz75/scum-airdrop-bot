@@ -1,1 +1,1 @@
-# Streamlit admin interface code
+# Streamlit admin panel logic here

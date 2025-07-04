@@ -1,1 +1,1 @@
-# Main Discord bot logic goes here
+# Discord bot logic here

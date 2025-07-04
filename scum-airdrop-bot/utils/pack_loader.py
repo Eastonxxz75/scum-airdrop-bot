@@ -1,1 +1,1 @@
-# Load item packs for airdrops
+# Pack loading logic

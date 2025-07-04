@@ -1,1 +1,1 @@
-# RCON communication logic
+# RCON command sender

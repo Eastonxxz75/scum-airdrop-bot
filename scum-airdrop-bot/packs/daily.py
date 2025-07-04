@@ -1,1 +1,1 @@
-items = ['Apple', 'Bandage', '9mmAmmo']
+# Daily pack

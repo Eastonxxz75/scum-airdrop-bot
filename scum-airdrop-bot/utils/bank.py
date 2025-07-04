@@ -1,1 +1,1 @@
-# Banking and currency logic
+# Bank system logic

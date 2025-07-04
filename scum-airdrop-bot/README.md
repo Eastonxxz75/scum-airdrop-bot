@@ -1,3 +1,3 @@
 # Gneis Co Airdrop Bot
 
-Unleash tactical chaos on your SCUM server.
+Unleash tactical madness with a button...
